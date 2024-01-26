@@ -21,6 +21,7 @@ function OnEvent(event, arg)
         --PressAndReleaseKey("Z") -- Ethereal Blade or you can situationally set this for just Ghost Scepter (no mana cost) 
         --PressAndReleaseKey("N") -- Dagon
         --PressAndReleaseKey("N") -- or Double Tap to Self Cast for Lotus Orb (best to use if there is Bounty Hunter on the enemy team)
+         
       end
    end 
 end

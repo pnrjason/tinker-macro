@@ -11,10 +11,6 @@ function OnEvent(event, arg)
       Macro_Activator = 1 
    elseif event == "MOUSE_BUTTON_PRESSED" and Macro_Activator == 1 then
       if event == "MOUSE_BUTTON_PRESSED" and arg == 4 then
-      -- 42 for SHIFT
-      -- Z for Ghost Scepter / Ethereal Blade
-      -- X for Shiva's Guard
-      -- N for Dagon or set as Double Tap to Self Cast for Lotus Orb
       
       -- You can customize the hotkeys if you want to replace them with your own hotkeys
       -- Mouse Button 4 to activate script

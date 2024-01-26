@@ -12,7 +12,7 @@ function OnEvent(event, arg)
    elseif event == "MOUSE_BUTTON_PRESSED" and Macro_Activator == 1 then
       if event == "MOUSE_BUTTON_PRESSED" and arg == 4 then
       
-      -- You can customize the hotkeys if you want to replace them with your own hotkeys
+      -- You can customize the hotkeys if you want to replace them with your own hotkeys (except for Alt+? hotkey users of course)
       -- Mouse Button 4 to activate script
       
         PressAndReleaseKey("B") -- Bottle (You can alternatively set this as Scythe of Vyse later on)
